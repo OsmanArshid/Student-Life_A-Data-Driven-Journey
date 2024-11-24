@@ -1,2 +1,2 @@
 # Student-Life_A-Data-Driven-Journey
- My Data Science
+ My Data Science Project
