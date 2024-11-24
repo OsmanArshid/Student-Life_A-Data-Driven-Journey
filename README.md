@@ -12,10 +12,7 @@ This project provides an in-depth analysis of student life at the Lahore Univers
 - [Methodology](#methodology)
 - [Key Findings](#key-findings)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
+- [Blog Link](#Blog-Link)
 
 ---
 
@@ -81,10 +78,6 @@ This project examines various aspects of student life at LUMS using a combinatio
 
 ---
 
-
-
-
-
-Blog Link to the Project:
+## Blog Link to the Project
 
 https://medium.com/@UsmanArshid/student-life-at-lums-a-data-driven-journey-a0e09506056f
