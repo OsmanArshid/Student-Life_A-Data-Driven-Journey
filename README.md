@@ -12,7 +12,7 @@ This project provides an in-depth analysis of student life at the Lahore Univers
 - [Methodology](#methodology)
 - [Key Findings](#key-findings)
 - [Technologies Used](#technologies-used)
-- [Blog Link](#link)
+- [Blog Link](#blog-link-to-the-project)
 
 ---
 
