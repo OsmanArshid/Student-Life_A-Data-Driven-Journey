@@ -17,7 +17,7 @@ This project provides an in-depth analysis of student life at the Lahore Univers
 ---
 
 ## Project Overview
-This project examines various aspects of student life at LUMS using a combination of data cleaning, exploratory analysis, hypothesis testing, and modeling. The findings aim to provide actionable insights on how students balance academics, social activities, and mental health.
+This project examines various aspects of student life at LUMS using a combination of data cleaning, exploratory analysis, **hypothesis testing**, and modeling. The findings aim to provide actionable insights on how students balance academics, social activities, and mental health.
 
 ---
 
@@ -79,5 +79,4 @@ This project examines various aspects of student life at LUMS using a combinatio
 ---
 
 ## Blog Link to the Project
-
 https://medium.com/@UsmanArshid/student-life-at-lums-a-data-driven-journey-a0e09506056f
